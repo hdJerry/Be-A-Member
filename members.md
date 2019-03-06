@@ -49,3 +49,4 @@
 -[@samuelKayode](https://www.github.com/samuelKayode)
 
 -[@koladem](https://www.github.com/koladem)
+-[@hdjerr](https://www.github.com/hdjerry)
